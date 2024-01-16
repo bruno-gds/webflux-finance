@@ -23,6 +23,9 @@ public class Acao {
         this.preco = preco;
     }
 
+    public String getSimbolo() {
+        return simbolo;
+    }
     public double getPreco() {
         return preco;
     }
